@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body{
+	text-align: center;
+	font-family: 'Oswald', sans-serif; 
+	background-color: #AFC1E9; 
+	box-sizing: border-box;
+}
+form{
+background-color: white;
+border-radius: 3px;
+color: #999;
+font-size: 0.8em;
+padding: 10px;
+margin: 0 auto;
+width: 300px;
+}
+
+input[type="text"]{
+	border-radius: 10px;
+	font-size: bold;
+	text-align: center;
+	width: 90%;
+}
+
